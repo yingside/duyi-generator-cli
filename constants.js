@@ -13,6 +13,11 @@ export const templates = [
     name: "vite-template",
     value: "yingside/vite-template",
     desc:"基于vite的vue3 + 前端工具链项目模板"
+  },
+  {
+    name: "vue-admin-box",
+    value: "cmdparkour/vue-admin-box",
+    desc:"cmdparkour vue3 + vite中后台项目模板"
   }
 ]
 
