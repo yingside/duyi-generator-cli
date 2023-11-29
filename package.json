@@ -1,12 +1,12 @@
 {
   "name": "duyi-generator-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release":"sh build/release.sh"
+    "release": "sh build/release.sh"
   },
   "bin": {
     "duyi-cli": "./index.js"
